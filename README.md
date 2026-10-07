@@ -1,7 +1,7 @@
 <div align="center">
 </div>
 
-![banner-nubia](C:\Users\DAM1\Desktop\Nubia\nubiamontesinos)
+<img width="1584" height="396" alt="bannerNubia" src="https://github.com/user-attachments/assets/18cce72e-8005-4bc4-b3da-4010c1db7002" />
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=nubiamontesinos&color=blueviolet&style=flat-square&label=VISITANTES" alt="Visitor Count"/>
