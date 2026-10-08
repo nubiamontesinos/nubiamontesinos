@@ -48,9 +48,7 @@
 
 ## ¿Qué ofrezco?
 
-1. **Adaptabilidad multiplataforma:** Capacidad para reutilizar lógica de negocio y desplegar apps eficientes tanto en entornos nativos como híbridos.
-2. **Buenas prácticas:** Clean Code, principios SOLID, control de versiones avanzado y metodologías ágiles (Scrum/Kanban).
-3. **Resolución analítica:** Enfoque orientado a resolver problemas complejos de rendimiento y sincronización de datos offline/online.
+Una mente adaptativa, proactiva y lógica.
 
 ---
 
