@@ -12,7 +12,7 @@
 
 ## Sobre mí
 
-¡Hola, mundo! Soy **Nubia Montesinos**, técnica superior en **Desarrollo de Aplicaciones Multiplataforma (DAM)**y apasionada de la tecnología, la  música y los videojuegos.
+¡Hola, mundo! Soy **Nubia Montesinos**, técnica superior en **Desarrollo de Aplicaciones Multiplataforma** (DAM) y apasionada de la tecnología, la  música y los videojuegos.
 
 * 📍 **Ubicación:** Málaga, España (Conectado con el **PTA / Málaga TechPark**).
 * 🎯 **Enfoque actual:** desarrollo multi-plataforma, arquitecturas limpias y optimización de rendimiento.
@@ -36,7 +36,6 @@
 * **Bases de Datos & Backend:**
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
 
 * **Herramientas & DevOps:**
