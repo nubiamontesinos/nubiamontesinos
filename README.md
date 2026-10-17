@@ -69,7 +69,7 @@ Una mente adaptativa, proactiva y lógica.
 ## Contacta conmigo
 
 <div align="center">
-  <a href="https://linkedin.com/in/nubiamontesinos" target="_blank">
+  <a href="https://es.linkedin.com/in/nubia-montesinos" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:nubiamontesinos.tech@gmail.com" target="_blank">
